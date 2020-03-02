@@ -1,3 +1,5 @@
+### The source files will be shared soon.
+
 # G751 Unlocked BIOS
 
 ##### WARNING : FLASHING / ERASING CURRENT BIOS INVOLVES RISK. PROCEED UNDER YOUR OWN RISK
